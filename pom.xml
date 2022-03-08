@@ -5,7 +5,7 @@
 
 	<groupId>org.javastack</groupId>
 	<artifactId>qrcode-gen</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<description>QR Code generator only, fork of ZXing barcode scanning library for Java, this is minified version</description>
 
 	<name>${project.groupId}:${project.artifactId}</name>
@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.13</version>
+			<version>4.13.2</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>

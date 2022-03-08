@@ -2,7 +2,7 @@
 
 QR Code generator only, fork of [ZXing](https://github.com/zxing/zxing) barcode scanning library for Java, this is minified version. Project is Open source (Apache License, Version 2.0)
 
-### Current Stable Version is [1.0.0](https://search.maven.org/#search|ga|1|g%3Aorg.javastack%20a%3Aqrcode-gen)
+### Current Stable Version is [1.0.1](https://search.maven.org/#search|ga|1|g%3Aorg.javastack%20a%3Aqrcode-gen)
 
 ---
 
@@ -53,7 +53,7 @@ Add the dependency to your pom.xml:
     <dependency>
         <groupId>org.javastack</groupId>
         <artifactId>qrcode-gen</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </dependency>
 
 ---
